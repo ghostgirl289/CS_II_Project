@@ -1,0 +1,3 @@
+HellO!
+
+SO for this project, I intited a lot of good ideas, and unfortunately couldn't follow through some of them such as meeting with the professor beforehand. However the main planning meeting I coordinated and planned with a whiteboard session. I contributed to the Hotel, Payroll, logIn, and Reservation classes. I also put together the first draft of the UML diagraM with all our own seperate parts accordingly. 
