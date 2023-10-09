@@ -1,0 +1,3 @@
+Contributed the guests, employees and sales classes to the diagram (only contributed two of the connections; business output depends on sales and payroll is a subclass of (or inherits) employee class 
+
+
