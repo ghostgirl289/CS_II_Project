@@ -1,0 +1,3 @@
+HellO!
+
+So for this project, I was responsible for a lot of the coding and the project. I coded a majority of the classes as well as coded the maintester page for the project. I updated the UML diagram and kept up to date with meetings about the project.
